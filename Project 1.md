@@ -16,14 +16,14 @@ APACHE HTTP SERVER is the most widely used web server software. Developed and ma
 
 Now, Install Apache using Ubuntu’s package manager 'apt'
 
-sudo apt update
+`sudo apt update`
 
 run apache2 package installation
 
-sudo apt install apache2
+`sudo apt install apache2`
 
 To verify that apache2 is running as a Service in my OS, i used following command
 
-sudo systemctl status apache2
+`sudo systemctl status apache2`
 
 Please Note, if the apache2 is correctly install it will show green and running, I have just launched my first Web Server in the Clouds
