@@ -15,3 +15,7 @@ ssh -i "cohort-two-key.pem" ubuntu@ec2-3-8-187-200.eu-west-2.compute.amazonaws.c
 ### NOTE:- Kindly use your own private key and your ip address, check from your EC2 instance (ssh client)
 
 ![Text Gitbash](https://github.com/deleclassic/darey.io.pbl/assets/134456810/fb8e2911-4431-447f-9524-3a074fdf0fd4)
+
+$sudo apt update
+
+$sudo apt install nginx
