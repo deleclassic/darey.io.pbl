@@ -6,3 +6,4 @@ A technology stack is a set of frameworks and tools used to develop a software p
 ## LAMP STACK set up involve setting up (Linux + Apache + Mysql + PHP)
 
 ## 1. Set up AWS account and spin up an EC2 Instance (LINUX Server)
+![Text1 AWS](https://github.com/deleclassic/darey.io.pbl/assets/134456810/5bc5335f-af41-4ac7-b9b2-90d762ca3931)
